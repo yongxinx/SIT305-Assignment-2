@@ -15,3 +15,9 @@ Hello World!
 - Have been really busy during the last few weeks, will catch up the progress next.
 - My apology
 
+# Henry comments 27/April
+- This file still needs compile instructions, and directory explanation so I know where to find stuff.
+- I'm not sure how to run your project from this directory.
+- Your changelog needs a lot of work
+- Your data hasn't progressed enough. You need to get to this very quickly, as you can't start building your game until you can at least load the levels/world of your game. So work on getting loading working (from data files) asap.
+
